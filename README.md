@@ -7,9 +7,9 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 ### ✨ What I'm Up to!
 
 ### ⛅️ Currently Learning!
-COMP 2710 - Software Construction
-COMP 3240 - Discrete Structures
-COMP 3350 - Computer Organization and Assembly Language Programming
+[COMP 2710] - Software Construction
+[COMP 3240] - Discrete Structures
+[COMP 3350] - Computer Organization and Assembly Language Programming
 
 ### 💡 Projects!
 
