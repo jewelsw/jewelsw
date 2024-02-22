@@ -7,6 +7,9 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 ### ✨ What I'm Up to!
 
 ### ⛅️ Currently Learning!
+COMP 2710 - Software Construction
+COMP 3240 - Discrete Structures
+COMP 3350 - Computer Organization and Assembly Language Programming
 
 ### 💡 Projects!
 
@@ -18,4 +21,4 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 [Instagram](https://www.instagram.com/jewels.wolter/) [LinkedIn](https://www.linkedin.com/in/ella-wolter/) 
 
 ### ⭐️ Languages!
-[Java] [Python] [C++] 
+[Java] [Python] 
