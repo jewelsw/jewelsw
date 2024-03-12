@@ -21,4 +21,4 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 [Instagram](https://www.instagram.com/jewels.wolter/) [LinkedIn](https://www.linkedin.com/in/ella-wolter/) 
 
 ### ⭐️ Languages!
-[Java] [Python] 
+[Java] [Python] [C++]
