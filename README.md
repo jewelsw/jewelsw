@@ -24,5 +24,5 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 [Java] [Python] [C++]
 
 ### 💡 Projects!
-- [COURSEWORK] - Software Construction
+- [COURSEWORK](https://github.com/jewelsw/COMP-2710) - Software Construction
 
