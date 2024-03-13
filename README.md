@@ -22,3 +22,7 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 
 ### ⭐️ Languages!
 [Java] [Python] [C++]
+
+### 💡 Projects!
+- [COURSEWORK] - Software Construction
+
