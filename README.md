@@ -24,6 +24,6 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 [Java] [Python] [C++]
 
 ### 💡 Projects!
-- [COURSEWORK](https://github.com/jewelsw/COMP-2710) - Software Construction
-- [COURSEWORK](https://github.com/jewelsw/COMP-3350) - Computer Organization and Assembly Language Programming
+- [COURSEWORK](https://github.com/jewelsw/COMP-2710) - (COMP 2710) Software Construction
+- [COURSEWORK](https://github.com/jewelsw/COMP-3350) - (COMP 3350) Computer Organization and Assembly Language Programming
 
