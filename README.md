@@ -9,23 +9,31 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 -->
 
 ### ⛅️ Currently Learning!
+
+- [DSA using Java](https://github.com/jewelsw/DSA) 
+
+<!--
 - [COMP 3220] - Principles of Programming Languages
 - [COMP 3270] - Introduction to Algorithms
 - [COMP 3500] - Introduction to Operating Systems
 - [COMP 3700] - Software Modeling and Design
+-->
 
 ### 🕊 Socials!
+
+[Linkedin](https://i.stack.imgur.com/gVE0j.png)
 <!--
 [![](<img src='https://github.com/jewelsw/jewelsw/blob/main/insta%20logo.webp' width='25'>)](https://www.instagram.com/jewels.wolter/])
 -->
-
+ <!--
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ella-wolter/)
 &nbsp;
-
+-->
 ### ⭐️ Languages!
 [Java] [Python] [C++]
 
 ### 💡 Projects!
 - [COURSEWORK](https://github.com/jewelsw/COMP-2710) - (COMP 2710) Software Construction
 - [COURSEWORK](https://github.com/jewelsw/COMP-3350) - (COMP 3350) Computer Organization and Assembly Language Programming
+- [REVIEW](https://github.com/jewelsw/DSA) - Data Structures and Algorithms 
 
