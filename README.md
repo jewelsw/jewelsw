@@ -35,5 +35,6 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 ### 💡 Projects!
 - [COURSEWORK](https://github.com/jewelsw/COMP-2710) - (COMP 2710) Software Construction
 - [COURSEWORK](https://github.com/jewelsw/COMP-3350) - (COMP 3350) Computer Organization and Assembly Language Programming
+- [COURSE PROJECT](https://github.com/jewelsw/TheDashboard) - (ENGR 1110) Software Engineering Introduction Semester Project
 - [REVIEW](https://github.com/jewelsw/DSA) - Data Structures and Algorithms 
 
