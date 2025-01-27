@@ -10,10 +10,11 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 
 ### ⛅️ Currently Learning!
 
-- [COMP 3220](https://github.com/jewelsw/COMP-3220) - Principles of Programming Languages
-- [COMP 3270](https://github.com/jewelsw/COMP-3270) - Introduction to Algorithms
-- [COMP 3500] - Introduction to Operating Systems
-- [COMP 3700] - Software Modeling and Design
+- [COMP 4320] - Introduction to Networks
+- [COMP 4300] - Computer Architecture
+- [STAT 3010] - Statistics for Engineers and Scientists
+- [STAT 4000] - Introduction to Data Science
+- [COMP 5120] - Database Systems
 
 ### 🕊 Socials!
 
@@ -29,6 +30,8 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 [Java] [Python] [C++]
 
 ### 💡 Projects!
+- [COURSEWORK](https://github.com/jewelsw/COMP-3270) - (COMP 3270) Introduction to Algorithms
+- [COURSEWORK](https://github.com/jewelsw/COMP-3220) - (COMP 3220) Principles of Programming Languages
 - [COURSEWORK](https://github.com/jewelsw/COMP-2710) - (COMP 2710) Software Construction
 - [COURSEWORK](https://github.com/jewelsw/COMP-3350) - (COMP 3350) Computer Organization and Assembly Language Programming
 - [COURSEWORK](https://github.com/jewelsw/COMP-1210) - (COMP 1210) Fundementals of Computing I
