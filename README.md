@@ -9,10 +9,9 @@ Software Engineering Student at [Auburn University](https://eng.auburn.edu/)
 -->
 
 ### ⛅️ Currently Learning!
-
+- [STAT 3010](https://github.com/jewelsw/STAT-3010) - Statistics for Engineers and Scientists
 - [COMP 4320] - Introduction to Networks
 - [COMP 4300] - Computer Architecture
-- [STAT 3010] - Statistics for Engineers and Scientists
 - [STAT 4000] - Introduction to Data Science
 - [COMP 5120] - Database Systems
 
